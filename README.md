@@ -17,6 +17,25 @@ I'm a **Flutter Developer** who loves building **mobile applications** and a **C
 
 ---
 
+## 🌟 Featured Projects
+
+### 📱 **Taskly – Flutter Görev Yönetim Uygulaması**
+Kişisel görevlerinizi düzenlemenizi sağlayan hızlı ve modern bir mobil uygulama.  
+- Flutter ile geliştirildi  
+- SQLite veritabanı  
+- Responsive tasarım  
+- State Management: **BLoC + Provider**
+
+🔐 **Repo:** Private
+
+#### 📸 **Uygulama Görüntüleri**
+<p align="center">
+  <img src="1.jpg" width="250" style="border-radius:10px; margin-right:10px;"/>
+  <img src="2.jpg" width="250" style="border-radius:10px;"/>
+</p>
+
+---
+
 ## 🚀 Tech Stack & Skills
 
 ### **Languages & Frameworks**
@@ -30,7 +49,7 @@ I'm a **Flutter Developer** who loves building **mobile applications** and a **C
 ![HTML5](https://img.shields.io/badge/HTML5-Intermediate-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-Intermediate-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-Intermediate-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Basic-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Basic-00599C?style=for-the-badge;logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-Intermediate-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ---
