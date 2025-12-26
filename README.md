@@ -19,7 +19,7 @@ I'm a **Flutter Developer** who loves building **mobile applications** and a **C
 
 ## 🌟 Featured Projects
 
-### 📱 **Taskly – Flutter Görev Yönetim Uygulaması**
+### 📱 **OdaklanBi – Flutter Görev Yönetim Uygulaması**
 Kişisel görevlerinizi düzenlemenizi sağlayan hızlı ve modern bir mobil uygulama.  
 - Flutter ile geliştirildi  
 - SQLite veritabanı  
