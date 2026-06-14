@@ -96,3 +96,4 @@ Kişisel görevlerinizi düzenlemenizi sağlayan hızlı ve modern bir mobil uyg
 ## ✨ Fun Fact
 > "**I love turning ☕ coffee into 💻 code,  
 > and 💡 ideas into 🚀 reality.**"
+
